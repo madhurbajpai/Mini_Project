@@ -1,0 +1,1 @@
+1. EEG is a signal model obtained by expanding and recording the physical biopotentials of the brain on the scalp.
